@@ -45,9 +45,7 @@ import lineageos.providers.LineageSettings;
 public class LineageSettingsActivity extends BaseSetupWizardActivity {
 
     public static final String TAG = LineageSettingsActivity.class.getSimpleName();
-
-    public static final String PRIVACY_POLICY_URI = "https://lineageos.org/legal";
-
+    public static final String PRIVACY_POLICY_URI = "https://projectsakura.xyz/index.html";
     private SetupWizardApp mSetupWizardApp;
 
     private CheckBox mMetrics;
